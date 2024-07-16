@@ -12,3 +12,4 @@ C:\projects\Cards\obj\Debug\net8.0\refint\Cards.dll
 C:\projects\Cards\obj\Debug\net8.0\Cards.pdb
 C:\projects\Cards\obj\Debug\net8.0\Cards.genruntimeconfig.cache
 C:\projects\Cards\obj\Debug\net8.0\ref\Cards.dll
+C:\projects\Cards\obj\Debug\net8.0\Cards.sourcelink.json
