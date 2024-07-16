@@ -135,6 +135,7 @@ public static class Spore
 
     public static void Clear()
     {
+        Console.CursorVisible = false;
         Console.Clear();
     }
 
